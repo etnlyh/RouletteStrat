@@ -4,10 +4,10 @@ A Python-based simulation engine designed to quantify the long-term expected pay
 
 # Key Features
 
-• Strategy Modeling: Modular Python scripts to simulate complex betting logic./
+• Strategy Modeling: Modular Python scripts to simulate complex betting logic.
 
-• Monte Carlo Simulations: High-iteration testing (10,000+) to ensure statistical significance./
+• Monte Carlo Simulations: High-iteration testing (10,000+) to ensure statistical significance.
 
-• Volatility Visualization: Comprehensive line graphs generated via Matplotlib to track account balance fluctuations and "drawdown" events./
+• Volatility Visualization: Comprehensive line graphs generated via Matplotlib to track account balance fluctuations and "drawdown" events.
 
 • Risk Quantification: Comparative analysis of expected payoffs vs. theoretical house edges.
